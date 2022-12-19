@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Laravel, React, Django**
 
+- 💬 Ask me about **elkom, e-invoice, erp, laravel**
+
 - 📫 How to reach me **egemen@elkomyazilim.com**
 
 <h3 align="left">Connect with me:</h3>
